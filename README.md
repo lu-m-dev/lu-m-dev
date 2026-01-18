@@ -8,12 +8,12 @@
     	<tr>
     		<td>
 				<div align="center">
-					<img width="200%" src="https://github-readme-stats-zeta-eight-19.vercel.app/api?username=lu-m-dev&theme=transparent&hide=issues&hide_rank=true&show_icons=true&custom_title=Lu%27s%20GitHub%20stats&include_all_commits=true"/>
+					<img width="200%" src="https://github-readme-stats-smoky-five-58.vercel.app/api?username=lu-m-dev&theme=transparent&hide=issues&hide_rank=true&show_icons=true&custom_title=Lu%27s%20GitHub%20stats&include_all_commits=true"/>
 				</td>
 				</div>
         	<td>
 				<div align="center">
-					<img width="60%" src="https://github-readme-stats-zeta-eight-19.vercel.app/api/top-langs/?username=lu-m-dev&theme=transparent&layout=compact&langs_count=30&custom_title=Languages%20by%20repo%20count&size_weight=0&count_weight=1"/>
+					<img width="60%" src="https://github-readme-stats-smoky-five-58.vercel.app/api/top-langs/?username=lu-m-dev&theme=transparent&layout=compact&langs_count=30&custom_title=Languages%20by%20repo%20count&size_weight=0&count_weight=1"/>
 				</div>
         	</td>
     	</tr>
@@ -44,7 +44,7 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/lu-m-dev/WebGPU-gaussian-splatting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lu-m-dev&repo=WebGPU-gaussian-splatting&theme=transparent" alt="WebGPU pin" style="width:400px;height:auto;object-fit:contain;border:0;"/></a>
+			<a href="https://github.com/lu-m-dev/WebGPU-gaussian-splatting"><img src="https://github-readme-stats-smoky-five-58.vercel.app/api/pin/?username=lu-m-dev&repo=WebGPU-gaussian-splatting&theme=transparent" alt="WebGPU pin" style="width:400px;height:auto;object-fit:contain;border:0;"/></a>
 		</td>
 		<td>
 			<a href="https://github.com/lu-m-dev/WebGPU-gaussian-splatting/blob/main/images/cover.gif"><img src="https://raw.githubusercontent.com/lu-m-dev/WebGPU-gaussian-splatting/main/images/cover.gif" alt="WebGPU demo" style="width:400px;height:auto;object-fit:contain;border:0;"/></a>
@@ -59,7 +59,7 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/lu-m-dev/biostatistics-eda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lu-m-dev&repo=biostatistics-eda&theme=transparent" alt="Data pipeline pin" style="width:400px;height:auto;object-fit:contain;border:0;"/></a>
+			<a href="https://github.com/lu-m-dev/biostatistics-eda"><img src="https://github-readme-stats-smoky-five-58.vercel.app/api/pin/?username=lu-m-dev&repo=biostatistics-eda&theme=transparent" alt="Data pipeline pin" style="width:400px;height:auto;object-fit:contain;border:0;"/></a>
 		</td>
 		<td>
 			<a href="https://github.com/lu-m-dev/biostatistics-eda/blob/main/assets/figures/preview.gif"><img src="https://raw.githubusercontent.com/lu-m-dev/biostatistics-eda/main/assets/figures/preview.gif" alt="Medical AI demo" style="width:400px;height:auto;object-fit:cover;border:0;"/></a>
@@ -74,7 +74,7 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/lu-m-dev/CUDA-path-tracer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lu-m-dev&repo=CUDA-path-tracer&theme=transparent" alt="CUDA pin" style="width:400px;height:auto;object-fit:contain;border:0;"/></a>
+			<a href="https://github.com/lu-m-dev/CUDA-path-tracer"><img src="https://github-readme-stats-smoky-five-58.vercel.app/api/pin/?username=lu-m-dev&repo=CUDA-path-tracer&theme=transparent" alt="CUDA pin" style="width:400px;height:auto;object-fit:contain;border:0;"/></a>
 		</td>
 		<td>
 			<a href="https://github.com/lu-m-dev/CUDA-path-tracer/blob/main/img/demo.gif"><img src="https://raw.githubusercontent.com/lu-m-dev/CUDA-path-tracer/main/img/demo.gif" alt="CUDA demo" style="width:400px;height:auto;object-fit:contain;border:0;"/></a>
@@ -93,4 +93,4 @@
 
 GitHub stats generated with `github-readme-stats`.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=transparent&show_owner=true" alt="CUDA pin" style="width:33.3%"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-smoky-five-58.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=transparent&show_owner=true" alt="CUDA pin" style="width:33.3%"/></a>
